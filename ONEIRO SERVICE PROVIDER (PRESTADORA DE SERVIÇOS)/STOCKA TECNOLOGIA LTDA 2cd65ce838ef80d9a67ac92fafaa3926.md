@@ -20,11 +20,8 @@ Startup de Tecnologia da Informação desenvolvedora de Plataforma SaaS voltada 
 - SPRINT 6 - Solução de GRC (Compliance com as normas e elaboração de plano de Disaster Recovery).
 - SPRINT 7 - Solução de DLP.
 
-## **FUNCIONALIDADES**
 
----
-
-## TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS A SEREM UTILIZADAS
 
 ---
 
